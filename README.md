@@ -13,7 +13,7 @@ smartcad/
 │   ├── engine.py        # Core validation logic (extracted from notebook)
 │   ├── main.py          # FastAPI app & REST endpoints
 │   ├── requirements.txt
-│   └── start.sh         # Quick start script
+│   └── start.sh         
 ├── frontend/
 │   ├── src/
 │   │   ├── App.js       # React dashboard
