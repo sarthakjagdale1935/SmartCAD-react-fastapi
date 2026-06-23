@@ -1,5 +1,5 @@
 # SmartCAD-AI — FastAPI + React Integration
-**Varroc Eureka Challenge 3.0 | Problem Statement 9**
+
 
 AI-Driven CAD Design Validation with a 3-layer hybrid architecture (Rule Engine → GBM ML → Fusion Engine), served through a FastAPI REST API and a React dashboard.
 
