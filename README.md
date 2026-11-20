@@ -26,31 +26,6 @@ smartcad/
 
 ---
 
-## Quick Start
-
-### 1. Backend (FastAPI)
-
-```bash
-cd backend
-pip install -r requirements.txt
-uvicorn main:app --host 0.0.0.0 --port 8000 --reload
-```
-
-API is live at: **http://localhost:8000**  
-Interactive docs: **http://localhost:8000/docs**
-
-### 2. Frontend (React)
-
-```bash
-cd frontend
-npm install
-npm start
-```
-
-App is live at: **http://localhost:3000**  
-(Proxied to backend on port 8000 via `"proxy"` in package.json)
-
----
 
 ## API Endpoints
 
