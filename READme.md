@@ -4,6 +4,10 @@
 
 SmartCAD-AI is a full-stack Design for Manufacturability (DFM) validation platform built with **React**, **FastAPI**, and a **3-Layer Hybrid AI** engine. It evaluates 17 geometric, material, and product-specific CAD parameters in real time across four automotive product families (**Lighting**, **EV**, **ADAS**, and **Structural**) to catch tooling and manufacturing defects before production.
 
+![SmartCAD-AI Dashboard](./assets/dashboard.png)
+<img width="1877" height="930" alt="dashboard" src="https://github.com/user-attachments/assets/eb0b4cc5-7c82-41d0-80b1-3ff12527cb16" />
+
+
 ---
 
 ## Live Deployment
