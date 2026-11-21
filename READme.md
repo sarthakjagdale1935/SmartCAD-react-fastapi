@@ -20,6 +20,8 @@ SmartCAD-AI is a full-stack Design for Manufacturability (DFM) validation platfo
 
 > **Note:** The backend runs on Render's free tier and automatically spins down after 15 minutes of inactivity. The first request after an idle period may take ~30–50 seconds while the server wakes up.
 
+<img width="1917" height="917" alt="image" src="https://github.com/user-attachments/assets/e6b9c8c3-9ba3-4687-b75d-2811fe74d726" />
+
 ---
 
 ## Hybrid AI Architecture
